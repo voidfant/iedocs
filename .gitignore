@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+node_modules
+.next
+dist
+target
+coverage
+*.log
+*.tsbuildinfo
+postgres-data
